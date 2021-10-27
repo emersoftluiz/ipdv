@@ -1,15 +1,15 @@
 <?php
 session_start();
-
+/*
 define("HOSTNAME", "http://127.0.0.1:81/ipdvonline/");
 define("DIRETORIO", "/ipdvonline/");
 define("BASEPATH", "/ipdvonline");
-/*
+*/
 define("HOSTNAME", "/");
 define("DIRETORIO", "/");
 define("BASEPATH", "");
-*/
-require __DIR__ . '/services/AltoRouter.php';
+
+require __DIR__ . '/AltoRouter.php';
 
 $router = new AltoRouter();
 

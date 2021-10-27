@@ -22,7 +22,9 @@
 * Usuário: admin
 * Senha: admin
 
-## Foi disponibilizado um protótipo do sistema no seguinte link http://ipdv.emersoft.net.br/
+## Foi disponibilizado um protótipo do sistema funcionando no seguinte link http://ipdv.emersoft.net.br/
+
+## Endereço do projeto no repositório Git: https://github.com/emersoftluiz/ipdv
 
 
 
